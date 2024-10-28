@@ -1,50 +1,66 @@
 
-#
-# This script was written with a lot of help from Chatgpt, as I am a novice in programming and had to find a quick solution for the syntax problem of my blocklists.
-#
 
+#
+# This script was written with help from ChatGPT, as I am a novice in programming and had to find a quick solution for the syntax problem of incompatible blocklists.
+#
 
 import requests
 import os
 import csv
+import re
 
-# Fetch blocklist data from a URL
+# Define paths
+BASE_DIR = os.path.dirname(__file__)
+OUTPUT_DIR = os.path.join(BASE_DIR, "Blocklist_outputs")
+CSV_PATH = os.path.join(BASE_DIR, "AdGuard_blocklists.csv")
+
+# Fetch blocklist data from the AdGuard_blocklists.csv file
 def fetch_blocklist(url):
     response = requests.get(url)
-    response.raise_for_status()  # Ensure request success
+    response.raise_for_status()
     return response.text.splitlines()
 
-# Convert blocklist lines to HOSTS format, adding disclaimer at the start
+# Add disclaimer and convert blocklist to HOSTS format
 def convert_to_hosts_format(blocklist, url):
     disclaimer = [
         "# This blocklist was converted from AdGuard syntax to a HOSTS file for Pi-Hole.",
         f"# All credits go to the original repository: {url}\n"
     ]
-    hosts_lines = disclaimer + [
-        line.replace('^', '').replace('||', '0.0.0.0 ').strip()
-        for line in blocklist
-        if line and not line.startswith(('!', '#'))
-    ]
-    return hosts_lines
+    hosts_lines = []
+    
+    for line in blocklist:
+        # Skip comments and empty lines
+        if line.startswith(('!', '#')) or not line:
+            continue
 
-# Save the formatted lines to a file
-def save_to_file(lines, output_path):
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        # Remove "||", and everything after "^"
+        cleaned_line = re.sub(r'^\|\|', '', line)
+        cleaned_line = re.sub(r'\^.*', '', cleaned_line)
+
+        # Add "0.0.0.0" in front of the url
+        if cleaned_line.strip():
+            hosts_lines.append(f"0.0.0.0 {cleaned_line.strip()}")
+
+    return disclaimer + hosts_lines
+
+# Create the output path and save blocklist as txt
+def save_to_file(lines, filename):
+    output_path = os.path.join(OUTPUT_DIR, f"{filename}.txt")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)  # Ensure output directory exists
     with open(output_path, 'w') as file:
         file.write("\n".join(lines))
     print(f"Blocklist saved to {output_path}")
 
 def main():
-    # Read each URL and filename from CSV and process
-    with open("AdGuard_blocklists.csv", newline='') as csvfile:
-        for url, output_filename in csv.reader(csvfile):
-            output_path = os.path.join("Blocklist_outputs", f"{output_filename}.txt")
-            try:
+    try:
+        with open(CSV_PATH, newline='') as csvfile:
+            for url, output_filename in csv.reader(csvfile):
                 blocklist = fetch_blocklist(url)
                 hosts_lines = convert_to_hosts_format(blocklist, url)
-                save_to_file(hosts_lines, output_path)
-            except Exception as e:
-                print(f"An error occurred for {url}: {e}")
+                save_to_file(hosts_lines, output_filename)
+    except Exception as e:
+        print(f"An error occurred: {e}")  # Print Error-message if necessary
 
 if __name__ == "__main__":
     main()
+

@@ -1,0 +1,41 @@
+# This blocklist was converted from AdGuard syntax to a HOSTS file for Pi-Hole.
+# All credits go to the original repository: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/GermanFilter/sections/adservers.txt
+
+0.0.0.0 mitself.net
+0.0.0.0 jubbie.de
+0.0.0.0 comparison.financeads.net
+0.0.0.0 lehrer-finden.de
+0.0.0.0 lokalwerben.t-online.de
+0.0.0.0 quartermedia-ad-service.net
+0.0.0.0 ad.dl.mainpost.de
+0.0.0.0 plx.eispop.com
+0.0.0.0 oddsserve.com
+0.0.0.0 widget.marktjagd.de
+0.0.0.0 cwi.re
+0.0.0.0 a.zdg.de
+0.0.0.0 cockpit.symplr.de
+0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
+0.0.0.0 embed.contentverticals.de
+0.0.0.0 ablyft.com
+0.0.0.0 tikibihu.com
+0.0.0.0 partners2.das-onlinespiel.de
+0.0.0.0 intextlinks.idg.zone
+0.0.0.0 megadeliveryn.com
+0.0.0.0 hybrid-prd.ad-prd.s.joyn.de
+0.0.0.0 kunner.wiesentbote.de
+0.0.0.0 yieldlove-ad-serving.net
+0.0.0.0 partner.shop.vorwerk.de
+0.0.0.0 orbidder.otto.de
+0.0.0.0 nur.gratis
+0.0.0.0 ikjnbvf.de
+0.0.0.0 emmi-findet.de
+0.0.0.0 app.bidhead.net
+0.0.0.0 widgets.tracdelight.io
+0.0.0.0 trbo.com
+0.0.0.0 adquality.ch
+0.0.0.0 sv.sheego.de
+0.0.0.0 azol.de
+0.0.0.0 twiago.com
+0.0.0.0 bauernative.com
+0.0.0.0 adshot.de
+0.0.0.0 content.acc-hd.de
