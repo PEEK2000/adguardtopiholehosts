@@ -2,7 +2,8 @@
 
 This is a very basic script that extracts urls from blocklists and converts them to HOSTS syntax used by Pi-Hole.
 
-Some AdGuard lists contain whitelisted domains marked with the prefix "@@" (e.g.  `@@¦¦example.com^`)    
+Some AdGuard lists contain whitelisted domains marked with the prefix "@@" 
+(e.g.  `@@¦¦example.com^`)    
 These whitelisted domains are extracted and placed in a separate *whitelist.txt* file that is created in the directory of the script file.
 This allows separate whitelisting of the domains in Pi-Hole.
 
