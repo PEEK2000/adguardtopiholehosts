@@ -1,4 +1,4 @@
-# This blocklist was converted from AdGuard syntax to a HOSTS file for Pi-Hole.
+# This blocklist was converted from AdGuard syntax to HOSTS syntax to enable it being used for Pi-Hole.
 # All credits go to the original repository: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/GermanFilter/sections/adservers.txt
 
 0.0.0.0 mitself.net

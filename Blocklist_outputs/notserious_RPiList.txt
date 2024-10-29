@@ -1,4 +1,4 @@
-# This blocklist was converted from AdGuard syntax to a HOSTS file for Pi-Hole.
+# This blocklist was converted from AdGuard syntax to HOSTS syntax to enable it being used for Pi-Hole.
 # All credits go to the original repository: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 
 0.0.0.0 007drones.de
@@ -1511,6 +1511,7 @@
 0.0.0.0 afrocommunityheritage.com
 0.0.0.0 afroeurobkonline.org
 0.0.0.0 afrolivestockfarm.co.za
+0.0.0.0 afroxtradings.com
 0.0.0.0 afsagroserviceskft.com
 0.0.0.0 afsanehmoharer.com
 0.0.0.0 afsheenpuppieshome.co.uk
@@ -1796,6 +1797,7 @@
 0.0.0.0 aimastermindx.com
 0.0.0.0 aimatape.xyz
 0.0.0.0 aimdb.com
+0.0.0.0 aimglobalexporters.com
 0.0.0.0 aimindustrialsupply.com
 0.0.0.0 aimixconcretebrickmachine.com
 0.0.0.0 aimmos-webdesign.de
@@ -3420,6 +3422,7 @@
 0.0.0.0 amzaon.de
 0.0.0.0 amzaon.fr
 0.0.0.0 amzfires.com
+0.0.0.0 amznreturnsale.com
 0.0.0.0 amzon.co.uk
 0.0.0.0 amzon.com
 0.0.0.0 amzon.com.au
@@ -3490,6 +3493,7 @@
 0.0.0.0 anc.net.au
 0.0.0.0 ancderewelten.shop
 0.0.0.0 ancheer.de
+0.0.0.0 anchor-broker.com
 0.0.0.0 anchorautoloans.com
 0.0.0.0 anchorfinancebank.com
 0.0.0.0 anchorgrants.com
@@ -5009,6 +5013,7 @@
 0.0.0.0 astrum-pflege.de
 0.0.0.0 astusog.com
 0.0.0.0 astute-buy.de
+0.0.0.0 asuparrots.us
 0.0.0.0 asuppliersgroup.com
 0.0.0.0 asus.cm
 0.0.0.0 asus.cn
@@ -5465,6 +5470,7 @@
 0.0.0.0 authorityo.com
 0.0.0.0 autism-helper.com
 0.0.0.0 autleez.com
+0.0.0.0 autmaxx.com
 0.0.0.0 auto-achatz.at
 0.0.0.0 auto-ekra.at
 0.0.0.0 auto-freight.com
@@ -5788,6 +5794,7 @@
 0.0.0.0 avuzwapoultryfarm.co.za
 0.0.0.0 avvsons.com
 0.0.0.0 aw-handel.de
+0.0.0.0 aw-ic.com
 0.0.0.0 aw-westernreiten.de
 0.0.0.0 aw-westerntraining.de
 0.0.0.0 awakenyourmusic.com
@@ -9177,6 +9184,7 @@
 0.0.0.0 blissfullppuppies.co.za
 0.0.0.0 blissfulpersiankittens.com
 0.0.0.0 blissfulpugpuppies.com
+0.0.0.0 blisspomeranians.net
 0.0.0.0 blistar.de
 0.0.0.0 bliszard.com
 0.0.0.0 blitz-handel.de
@@ -10300,6 +10308,7 @@
 0.0.0.0 bremenzeig.com
 0.0.0.0 bremer-fotowelt.de
 0.0.0.0 bremer-reifen.com
+0.0.0.0 bremerbrennholz.com
 0.0.0.0 bremsscheibende.com
 0.0.0.0 bren-nholz.com
 0.0.0.0 brendavalosa.com
@@ -10342,6 +10351,7 @@
 0.0.0.0 brennholz-netzwerk.de
 0.0.0.0 brennholz-paul-rochla.com
 0.0.0.0 brennholz-pellets.com
+0.0.0.0 brennholz-saale.de
 0.0.0.0 brennholz-scheiffele.de
 0.0.0.0 brennholz-schnell-kaufen.com
 0.0.0.0 brennholz-schnelles.de
@@ -15596,6 +15606,7 @@
 0.0.0.0 credipea.com
 0.0.0.0 credit-comparison.today
 0.0.0.0 credit.somo.co.uk
+0.0.0.0 creditagcegypt.com
 0.0.0.0 creditasiagroup.com
 0.0.0.0 creditbuyer.us
 0.0.0.0 creditcapitaleu.com
@@ -25045,6 +25056,7 @@
 0.0.0.0 fastkaffee.shop
 0.0.0.0 fastlapdelivery.com
 0.0.0.0 fastlinetransportlogistics.com
+0.0.0.0 fastlinkdipandcourier.com
 0.0.0.0 fastlinkdiplomaticcourierservices.com
 0.0.0.0 fastlinksshippingcargo.com
 0.0.0.0 fastmaildeliveries.com
@@ -32149,6 +32161,7 @@
 0.0.0.0 greentec-handel.de
 0.0.0.0 greenteniacatscattery.com
 0.0.0.0 greenthin.net
+0.0.0.0 greentopbank.com
 0.0.0.0 greentrackdelivery.com
 0.0.0.0 greentrade24.net
 0.0.0.0 greentradecapital.com
@@ -37790,6 +37803,7 @@
 0.0.0.0 in-ig.de
 0.0.0.0 in-irkutsk.de
 0.0.0.0 in-sachen-garten24.de
+0.0.0.0 in-wc.com
 0.0.0.0 inabanzalivestock.co.za
 0.0.0.0 inageglass.org
 0.0.0.0 inageshack.us
@@ -38300,6 +38314,7 @@
 0.0.0.0 interactivefxtrade.com
 0.0.0.0 interactiveinvest.co
 0.0.0.0 interactp.com
+0.0.0.0 interairdelivery.com
 0.0.0.0 interautopartcoltd.co.za
 0.0.0.0 intercargologs.com
 0.0.0.0 intercertus.io
@@ -39608,6 +39623,7 @@
 0.0.0.0 jkinski.shop
 0.0.0.0 jkintlgroup.com
 0.0.0.0 jkmmydorecomedy.com
+0.0.0.0 jkparrotpetshop.com
 0.0.0.0 jkpumpsvalves.com
 0.0.0.0 jkrellc.com
 0.0.0.0 jkrusslawfirm.online
@@ -49426,6 +49442,7 @@
 0.0.0.0 minipomhome.co.za
 0.0.0.0 minipomshome.co.za
 0.0.0.0 minipoodlepupsforsale.com
+0.0.0.0 minipoodlepupsforsale.us
 0.0.0.0 minipuppies.online
 0.0.0.0 minipuppieszone.com
 0.0.0.0 minipuppsparadise.co.za
@@ -56346,6 +56363,7 @@
 0.0.0.0 paedia.top
 0.0.0.0 paeoniany.com
 0.0.0.0 paerdstall.lu
+0.0.0.0 pafeminidachshundpups.com
 0.0.0.0 paffeholz.com
 0.0.0.0 paganidesignstore.com
 0.0.0.0 pagarino.de
@@ -62619,6 +62637,7 @@
 0.0.0.0 reifen-intensa.com
 0.0.0.0 reifen-jacob.com
 0.0.0.0 reifen-janotta.com
+0.0.0.0 reifen-kanal.com
 0.0.0.0 reifen-karl.com
 0.0.0.0 reifen-kemo.com
 0.0.0.0 reifen-kenda.com
@@ -67675,6 +67694,7 @@
 0.0.0.0 siamesekittenpalace.com
 0.0.0.0 siamexportersth.com
 0.0.0.0 siampaperfactory.com
+0.0.0.0 siamring-tech.de
 0.0.0.0 siamrose.com
 0.0.0.0 siamsugarexport.com
 0.0.0.0 sianastyle.com
@@ -70354,6 +70374,7 @@
 0.0.0.0 statelinetack.shop
 0.0.0.0 statepetdelivery.com
 0.0.0.0 stateroyalsaving.com
+0.0.0.0 states-gov.us
 0.0.0.0 statesanabolicstore.com
 0.0.0.0 statescourts.com
 0.0.0.0 statesenterprisefinance.com
@@ -78263,6 +78284,7 @@
 0.0.0.0 uzaafricapapers.co.za
 0.0.0.0 uzango-design.at
 0.0.0.0 uzatoday.com
+0.0.0.0 v-b-h.us
 0.0.0.0 v-luckyday.com
 0.0.0.0 v1meo.com
 0.0.0.0 v7softwaregroup.com
@@ -81922,6 +81944,7 @@
 0.0.0.0 wiseinmind.com
 0.0.0.0 wiselux.com
 0.0.0.0 wiselypoodlehome.com
+0.0.0.0 wisemannagrofarms.com
 0.0.0.0 wisemovecourier.com
 0.0.0.0 wisereading.store
 0.0.0.0 wiserthinking.com

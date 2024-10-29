@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/malware,Malware_RPiList
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/GermanFilter/sections/adservers.txt,Ads_German_Adguard
 https://raw.githubusercontent.com/easylist/easylistgermany/refs/heads/master/easylistgermany/easylistgermany_adservers.txt,Ads_German_Easylist
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/whitelist-urlshortener.txt,Whitelist_urlshortener
