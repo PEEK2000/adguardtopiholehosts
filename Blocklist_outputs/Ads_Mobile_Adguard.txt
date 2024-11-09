@@ -1,0 +1,5 @@
+# This blocklist was converted from AdGuard syntax to HOSTS syntax to enable it being used for Pi-Hole.
+# All credits go to the original repository: https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt
+
+0.0.0.0 doubleclick.net
+0.0.0.0 doubleclick.net

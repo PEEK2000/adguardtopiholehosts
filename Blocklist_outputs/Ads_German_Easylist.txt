@@ -3,6 +3,7 @@
 
 0.0.0.0 adnx.de
 0.0.0.0 bd742.com
+0.0.0.0 f11-ads.com
 0.0.0.0 fantecio.com
 0.0.0.0 gayads.biz
 0.0.0.0 swissadserver.ch
@@ -197,6 +198,7 @@
 0.0.0.0 ptadsrv.de
 0.0.0.0 qualigo.de
 0.0.0.0 quality-channel.de
+0.0.0.0 qualitymedianetwork.de
 0.0.0.0 quartermedia.de
 0.0.0.0 quarterserver.de
 0.0.0.0 rapidads.de
