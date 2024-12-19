@@ -85,7 +85,6 @@
 0.0.0.0 blogads.de
 0.0.0.0 bsheute.de
 0.0.0.0 buywords.de
-0.0.0.0 bwads24.com
 0.0.0.0 c-points.de
 0.0.0.0 cashdorado.de
 0.0.0.0 chatintr.com
@@ -95,14 +94,12 @@
 0.0.0.0 codes.wai.it
 0.0.0.0 conative.de
 0.0.0.0 connects.ch
-0.0.0.0 contentfeed.net
 0.0.0.0 cpdsrv.de
 0.0.0.0 crmpilot.it
 0.0.0.0 cuiron.de
 0.0.0.0 cussixia.de
 0.0.0.0 cyonix.to
 0.0.0.0 data-analyst.biz
-0.0.0.0 de-ads.de
 0.0.0.0 def-platform.com
 0.0.0.0 def-platform.de
 0.0.0.0 def-platform.net
@@ -166,7 +163,6 @@
 0.0.0.0 marketing-profis.net
 0.0.0.0 maxi-ad.de
 0.0.0.0 maxiad.de
-0.0.0.0 media-guides.de
 0.0.0.0 mega-ad.de
 0.0.0.0 megawerbung.de
 0.0.0.0 mename.de

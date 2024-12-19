@@ -85,6 +85,17 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 ads.smrtbid.com
+0.0.0.0 creative*.bidease.com
+0.0.0.0 bidjora.com
+0.0.0.0 aomsitf.com
+0.0.0.0 richlifeads.ru
+0.0.0.0 tapulsads.ru
+0.0.0.0 httpdns.bilivideo.com
+0.0.0.0 dataflow.biliapi.com
+0.0.0.0 grpc.biliapi.net
+0.0.0.0 ads.adinmotech.com
+0.0.0.0 kvaedit.site
 0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-config-engine-noneu.truecaller.com

@@ -1,7 +1,3 @@
-#
-# This script was written with help from ChatGPT, as I am a novice in programming and had to find a quick solution for the syntax problem of incompatible blocklists I want to use.
-#
-
 import requests
 import os
 import csv
