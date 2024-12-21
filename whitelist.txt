@@ -761,7 +761,6 @@ kkstre.am
 klck.me
 kli.cx
 klmf.ly
-knw.one
 ko.gl
 korta.nu
 kortlink.dk
