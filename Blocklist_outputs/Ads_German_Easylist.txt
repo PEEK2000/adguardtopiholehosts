@@ -234,7 +234,6 @@
 0.0.0.0 trocado.at
 0.0.0.0 turboads.de
 0.0.0.0 twiago.com
-0.0.0.0 uclo.net
 0.0.0.0 uselayer.com
 0.0.0.0 vip-websc.org
 0.0.0.0 vipbanner.de
