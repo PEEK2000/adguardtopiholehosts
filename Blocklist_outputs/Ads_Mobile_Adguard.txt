@@ -85,6 +85,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 dsp-api.moloco.com
 0.0.0.0 ads.smrtbid.com
 0.0.0.0 creative*.bidease.com
 0.0.0.0 bidjora.com
