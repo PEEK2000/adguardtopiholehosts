@@ -46,7 +46,6 @@
 0.0.0.0 adspectacle.net
 0.0.0.0 adspirit.net
 0.0.0.0 adsplash.de
-0.0.0.0 adsturn.com
 0.0.0.0 adsushi.de
 0.0.0.0 advendi.de
 0.0.0.0 advert-layer.de
@@ -208,7 +207,6 @@
 0.0.0.0 server4ads.com
 0.0.0.0 servote.de
 0.0.0.0 sexgoesmobile.com
-0.0.0.0 smartico.one
 0.0.0.0 solads.media
 0.0.0.0 sparkads.ws
 0.0.0.0 sparkassen-partner.de
