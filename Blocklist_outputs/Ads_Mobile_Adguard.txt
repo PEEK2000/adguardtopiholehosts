@@ -85,6 +85,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dsp-api.moloco.com
 0.0.0.0 ads.smrtbid.com
 0.0.0.0 creative*.bidease.com
@@ -94,7 +95,6 @@
 0.0.0.0 tapulsads.ru
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 dataflow.biliapi.com
-0.0.0.0 grpc.biliapi.net
 0.0.0.0 ads.adinmotech.com
 0.0.0.0 kvaedit.site
 0.0.0.0 ads-ap-venues.yinzcam.com
@@ -132,7 +132,6 @@
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 psvpromo.psvgamestudio.com
-0.0.0.0 reachableads-av.*.amazonaws.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 zgzxs.weathercn.com
