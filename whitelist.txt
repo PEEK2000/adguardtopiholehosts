@@ -388,6 +388,7 @@ cyb.ec
 cybr.fr
 cybr.rocks
 cyonix.to
+d.to
 d-sh.io
 d75.eu
 da.gd
@@ -613,7 +614,6 @@ gr.pn
 grb.to
 grdt.ai
 grem.io
-grhb.me
 grm.my
 grnh.se
 gtly.ink
@@ -825,7 +825,6 @@ lin.ee
 lin.io
 lin0.de
 link.ac
-link.gy
 linkbun.com
 linkd.in
 linkjust.com
@@ -1488,7 +1487,6 @@ tw.sv
 twb.nz
 twet.fr
 twi.im
-twiturl.de
 twlr.me
 twm5g.co
 twou.co
@@ -1700,7 +1698,6 @@ xurl.es
 xurls.co
 xvirt.it
 xxl.frl
-xy2.eu
 xyvid.tv
 y2u.be
 yadi.sk
@@ -1791,6 +1788,7 @@ tim.com.vc
 i.coscup.org
 go.cwtv.com
 go.dbs.com
+s.devh.in
 p.dw.com
 l.ead.me
 go.edh.tw
