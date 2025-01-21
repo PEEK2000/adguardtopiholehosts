@@ -18,7 +18,7 @@ def fetch_blocklist(url):
 # Add disclaimer and convert blocklist to HOSTS format and extract whitelisted domains
 def convert_to_hosts_format(blocklist, url):
     disclaimer = [
-        "# This blocklist was converted from AdGuard syntax to HOSTS syntax to enable it being used for Pi-Hole.",
+        "# This blocklist was converted from AdGuard syntax to HOSTS syntax to allow it being used with Pi-Hole.",
         f"# All credits go to the original repository: {url}\n"
     ]
     
