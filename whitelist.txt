@@ -264,7 +264,6 @@ browser.to
 brzu.net
 bst.bz
 bstk.me
-bsun.md
 btm.li
 btwrdn.com
 budurl.com
@@ -658,7 +657,6 @@ hubs.ly
 huffp.st
 hulu.tv
 huma.na
-hyp.ae
 hyperurl.co
 hyperx.gg
 i-2.co
@@ -928,7 +926,6 @@ mrte.ch
 mrx.cl
 msft.it
 msi.gm
-mstr.cd
 mstr.cl
 mttr.io
 mub.me
@@ -1126,6 +1123,7 @@ qptr.ru
 qqc.co
 qr.ae
 qr.net
+qr-code.click
 qr-code-generator.com
 qrcc.me
 qrco.de
@@ -1262,6 +1260,7 @@ short.gy
 short.ie
 short.pk
 shorten.asia
+shorter.me
 shorturl.ae
 shorturl.asia
 shorturl.at
@@ -1335,7 +1334,6 @@ spotify.link
 spr.ly
 spr.tn
 sprtsnt.ca
-sptfy.com
 sq6.ru
 sqex.to
 sqrx.io

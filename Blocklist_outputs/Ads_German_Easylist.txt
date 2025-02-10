@@ -49,7 +49,6 @@
 0.0.0.0 adsushi.de
 0.0.0.0 advendi.de
 0.0.0.0 advert-layer.de
-0.0.0.0 advolution.biz
 0.0.0.0 advolution.de
 0.0.0.0 adworx.at
 0.0.0.0 aff-handler.com
@@ -76,7 +75,6 @@
 0.0.0.0 bannerchange.net
 0.0.0.0 bannerheld.de
 0.0.0.0 bauernative.com
-0.0.0.0 bb2022.info
 0.0.0.0 biallo1.de
 0.0.0.0 biallo2.de
 0.0.0.0 biallo3.de
@@ -90,7 +88,6 @@
 0.0.0.0 chatntr.com
 0.0.0.0 ci-marketing.de
 0.0.0.0 cmadserver.de
-0.0.0.0 codes.wai.it
 0.0.0.0 conative.de
 0.0.0.0 connects.ch
 0.0.0.0 cpdsrv.de
@@ -115,7 +112,6 @@
 0.0.0.0 exit-x.net
 0.0.0.0 exnzg.de
 0.0.0.0 expepp.de
-0.0.0.0 falkag.de
 0.0.0.0 feedad.com
 0.0.0.0 fexzuf.com
 0.0.0.0 finad.de
@@ -149,11 +145,9 @@
 0.0.0.0 kingads.net
 0.0.0.0 klick4u.de
 0.0.0.0 klicktausch.com
-0.0.0.0 komplads.net
 0.0.0.0 ktxtr.com
 0.0.0.0 liferd.de
 0.0.0.0 linkedads.de
-0.0.0.0 linkstation.de
 0.0.0.0 localpoint.ch
 0.0.0.0 lose4admin.de
 0.0.0.0 love-money.de
@@ -195,7 +189,6 @@
 0.0.0.0 quality-channel.de
 0.0.0.0 qualitymedianetwork.de
 0.0.0.0 quartermedia.de
-0.0.0.0 quarterserver.de
 0.0.0.0 rapidads.de
 0.0.0.0 revresrennab.de
 0.0.0.0 rgadvert.com
@@ -206,11 +199,8 @@
 0.0.0.0 selfpuc.com
 0.0.0.0 server4ads.com
 0.0.0.0 servote.de
-0.0.0.0 sexgoesmobile.com
 0.0.0.0 solads.media
 0.0.0.0 sparkads.ws
-0.0.0.0 sparkassen-partner.de
-0.0.0.0 special-sponsor.de
 0.0.0.0 sponsortown.de
 0.0.0.0 spoods.io
 0.0.0.0 stilanzeigen.net
@@ -248,7 +238,6 @@
 0.0.0.0 wwm24.de
 0.0.0.0 www.p.de
 0.0.0.0 wz-werbewelt.de
-0.0.0.0 xaded.de
 0.0.0.0 xiji.de
 0.0.0.0 xtreff69.com
 0.0.0.0 yoomedia.de
